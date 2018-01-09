@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hero()
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=Weapon\ getWeapon()
+comment4.params=x_amount
+comment4.target=int\ setX(int)
+comment5.params=y_amount
+comment5.target=int\ setY(int)
+comment6.params=
+comment6.target=int\ getHealth()
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=
+comment8.target=int\ usePotion()
+comment9.params=move
+comment9.target=boolean\ isValidMov(java.lang.String)
+numComments=10
